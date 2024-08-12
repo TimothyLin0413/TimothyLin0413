@@ -1,7 +1,11 @@
 # 💫 About Me:
-My name is Tzu-Yu Lin also go by Timothy Lin and I'm currently an undergraduate studying computer science at the University of California-Irvine.
+Hi Everyone! My name is Tzu-Yu Lin but I also go by Timothy Lin. As a graduate of the University of California, Irvine, I have completed a bachelor's degree in Computer Science (Information Specialization) with a minor in Business Management. I am passionate about learning new programming languages, information, and technology, and I have developed skills in Python, Java, C++, Go, and JavaScript through various courses, projects, and expereince.
 
-I recently just finished working on a full-stack web application using Java and Dynamic HTML and I'm looking to collaborate on any topics or new projects. <br>I'm also looking for help with learning new programming languages and management tools. <br>I'm currently learning Go and React. <br>I want to be a software project manager in the future!<br>Fun Fact: I love playing and watching sports, notably baseball, basketball, and badminton (3Bs).<br>                 I believe technology will be more involved within the sports field either on the court or off the court in the future and I want to be part of it, either through just working with tech or working in the sports field using tech. 
+I have also gained valuable work experience as a student assistant at UC Irvine. During my tenure as a student assistant at UC Irvine, I excelled in collaboration with professionals, organizing files, and managing databases. In addition, I interned previously as a software engineer at Veeva Systems, where I worked with a corporate-level codebase and developer utilities using Java and JavaScript. This experience equipped me with the ability to write clean, testable code while collaborating seamlessly with cross-functional teams. My work on audit expressions ensured the functionality of cloud-based features and products, showcasing my attention to detail, adherence to stringent standards, and quality assurance. 
+
+Through these roles, I have developed fast learning, team cooperation, and problem-solving abilities, as well as communication and attention to detail skills. My goal is to leverage my education and experience to contribute to innovative and impactful solutions in the field of computer science on a real-world scale. 
+
+More about me, please check my portfolio: https://timothylin0413.github.io/home
 
 Feel free to reach out to me through any of my socials to talk about anything, to collaborate on a project, or to start something wonderful!
 
